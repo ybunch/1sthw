@@ -35,6 +35,8 @@ ex: Hello, my name is Jean Valjean.
 */
 
 /* 
+
+
 let firstVariable = "Hello World"
 firstVariable = 5 
 let secondVariable = firstVariable
@@ -163,6 +165,8 @@ Write a loop that will print out every third number starting with 11 and going n
 
 
 //let bankAccount = function payCheck(){}
+
+
 
   for(let i = 1; i <= 10; i+i)
   
